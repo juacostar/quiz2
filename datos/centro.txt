@@ -1,0 +1,13 @@
+pan:1200.0:123456
+3:x:granja 1: leche:huevos:pan:1200.0:1234567
+3:x:granja 1: leche:pan:huevos:
+
+
+Ingresaron las materias primas a la manufacturera  panaderia en la fecha: 12/3/2001 a las 12:10
+Ingresaron ingreso el producto al centro de distribucion horno en la fecha: 11/11/2011 a las 11:11 proveniente de la manufacturerapanaderia
+pan:1300.0:12345678
+3:x:granja 1: leche:huevos:pan:
+
+
+Ingresaron las materias primas a la manufacturera  panaderia en la fecha: 11/11/2011 a las 11:11
+Ingresaron ingreso el producto al centro de distribucion horno en la fecha: 11/11/11 a las 11:11 proveniente de la manufacturerapanaderia
